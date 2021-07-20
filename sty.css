@@ -1,0 +1,18 @@
+body{
+    background-color: yellowgreen;
+}
+
+h1{
+    color: yellow;
+}
+h2{
+    color: yellow;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: yellow;
+    border-width: 10px;
+    width: 5%;
+}
+
